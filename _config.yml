@@ -15,13 +15,13 @@ remote_theme: open-sdg/open-sdg@master
 # Replace this title as needed.
 title: Indicators For The Sustainable Development Goals
 # Replace the baseurl with the name of this repository.
-baseurl: "/open-sdg-site-starter"
+baseurl: "/SDG"
 url: ""
 data_dir: data
 environment: staging
 # Replace "open-sdg" with the name of your GitHub organization, and
 # "open-sdg-data-starter" with the name of your data repository.
-remote_data_prefix: "https://open-sdg.github.io/open-sdg-data-starter"
+remote_data_prefix: "https://NSOMalta.github.io/SDG-Data"
 
 # Automatically create indicator pages, goal pages,
 # and some other required pages.
@@ -42,16 +42,16 @@ twitter: 'MyTwitterAccount'
 
 # Replace the email addresses below.
 email_contacts:
-  questions: test@example.com
-  suggestions: test@example.com
-  functional: test@example.com
+  questions: it.nso@gov.mt
+  suggestions: it.nso@gov.mt
+  functional: it.nso@gov.mt
 
 # Github Repo for Data
 # Replace this value as needed.
-repo_name: open-sdg-data-starter
+repo_name: SDG-Data
 branch: develop
 # Replace this value as needed.
-org_name: my-github-org
+org_name: NSOMalta
 
 # Build settings
 markdown: kramdown
@@ -62,8 +62,8 @@ exclude: [vendor, scripts, remotedata]
 # International Support
 # Eg name: Australia and adjective: Australian
 country:
-  name: Australia
-  adjective: Australian
+  name: Malta
+  adjective: Maltese
 
 # Optionally uncomment and update the settings below to control the frontpage heading and instructions.
 #frontpage_heading: Australian data for Sustainable Development Goal indicators
@@ -96,11 +96,11 @@ menu:
     translation_key: menu.faq
 
 footer_menu:
-  - path: mailto:my-email-address@example.com
+  - path: mailto:it.nso@gov.mt
     translation_key: menu.contact_us
-  - path: https://twitter.com/MyTwitterAccount
+  - path: https://twitter.com/NSOMALTA
     translation_key: general.twitter
-  - path: https://facebook.com/MyFacebookAccount
+  - path: https://www.facebook.com/nsomalta/
     translation_key: general.facebook
   - path: /about/cookies-and-privacy/
     translation_key: menu.cookies
