@@ -8,6 +8,7 @@
 # -- replace "my-github-org" with "my-awesome-github-org"
 # -- replace "open-sdg-site-starter" with "my-awesome-site-repo"
 # -- replace "open-sdg-data-starter" with "my-awesome-data-repo"
+# test
 
 # Tell the Remote Theme plugin to use the Open SDG platform (Jekyll theme).
 remote_theme: open-sdg/open-sdg@master
