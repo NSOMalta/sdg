@@ -29,7 +29,7 @@ remote_data_prefix: "https://NSOMalta.github.io/SDG-Data"
 create_indicators:
   layout: indicator
 create_goals:
-  #  layout: goal
+  #  layout: goal  # this setting changes whether the indicators are categorized by target or not
   layout: goal-by-target
 create_pages: true
 
