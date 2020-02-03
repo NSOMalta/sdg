@@ -96,6 +96,9 @@ menu:
     translation_key: menu.guidance
   - path: /faq
     translation_key: menu.faq
+ # the below link is just a test
+ - path: https://nso.gov.mt/en/Pages/NSO-Home.aspx
+    translation_key: NSO.GOV.MT
 
 footer_menu:
   - path: mailto:it.nso@gov.mt
