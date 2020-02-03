@@ -29,7 +29,8 @@ remote_data_prefix: "https://NSOMalta.github.io/SDG-Data"
 create_indicators:
   layout: indicator
 create_goals:
-  layout: goal
+  #  layout: goal
+  layout: goal-by-target
 create_pages: true
 
 analytics:
