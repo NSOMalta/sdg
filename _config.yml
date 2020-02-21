@@ -64,7 +64,7 @@ exclude: [vendor, scripts, remotedata]
 # International Support
 # Eg name: Australia and adjective: Australian
 country:
-  name: Malta
+  name: Malte
   adjective: Maltese
 
 # Optionally uncomment and update the settings below to control the frontpage heading and instructions.
