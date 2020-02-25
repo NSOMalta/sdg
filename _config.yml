@@ -8,7 +8,6 @@
 # -- replace "my-github-org" with "my-awesome-github-org"
 # -- replace "open-sdg-site-starter" with "my-awesome-site-repo"
 # -- replace "open-sdg-data-starter" with "my-awesome-data-repo"
-# test3
 
 # Tell the Remote Theme plugin to use the Open SDG platform (Jekyll theme).
 remote_theme: open-sdg/open-sdg@master
@@ -64,8 +63,8 @@ exclude: [vendor, scripts, remotedata]
 # International Support
 # Eg name: Australia and adjective: Australian
 country:
-  name: MMalta
-  adjective: MMaltese
+  name: Malta
+  adjective: Maltese
 
 # Optionally uncomment and update the settings below to control the frontpage heading and instructions.
 #frontpage_heading: Australian data for Sustainable Development Goal indicators
