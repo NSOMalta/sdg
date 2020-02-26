@@ -34,7 +34,7 @@ create_goals:
 create_pages: true
 
 analytics:
-  ga_prod: ''
+  ga_prod: 'UA-157846150-1'
 
 # Social media accounts.
 twitter: 'NSOMalta'
