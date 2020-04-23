@@ -20,8 +20,8 @@ title: Indicators For The Sustainable Development Goals
 baseurl: "/sdg"
 url: ""
 data_dir: data
-environment: production
-# ^ this was staging
+environment: staging
+# ^ this should become production
 # Replace "open-sdg" with the name of your GitHub organization, and
 # "open-sdg-data-starter" with the name of your data repository.
 remote_data_prefix: "https://NSOMalta.github.io/SDG-Data"
